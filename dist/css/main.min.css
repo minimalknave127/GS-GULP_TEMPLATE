@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+  color: green;
+  box-shadow: 0 20px 20px 10px;
+  display: grid;
+  -webkit-transition: all 4s ease;
+  transition: all 4s ease;
+}

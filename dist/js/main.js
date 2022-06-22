@@ -1,0 +1,1 @@
+function testUglify(){console.log(9),console.log(4)}testUglify();
