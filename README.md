@@ -1,5 +1,10 @@
 ######
 
+--- COMMANDS ---
+
+gulp - compile all files and serve web
+gulp serve - serve without compiling
+
 Add your files to src folder
 
 Add your images and svg to assets/compress folder
